@@ -2,7 +2,6 @@
 
 All the projects that I have made.
 
-Title:
-hello
+Title: hello
 
 Coded in:
