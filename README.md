@@ -1,7 +1,6 @@
 # personal-projects
+This repository consists of all the projects that I have made so far.  
 
-All the projects that I have made so far.
-
-Title: hello
+Title:  
 
 Coded in:
