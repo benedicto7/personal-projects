@@ -2,8 +2,8 @@
 ## Description: ## <br/>
 In this project, I decided to code my own clock and countdown timer. 
 
-## Requirements: ## <br/>
+## Requirements: <br/> ##
 * React.js must be downloaded.
 
-Instructions: <br/>
+## Instructions: <br/>
 1. Download all files.
