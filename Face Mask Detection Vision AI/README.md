@@ -5,6 +5,7 @@ Description:
 Used pre-model created by Agung (me/not_me)... 
 
 Requirement: 
+-docker, deepstream sdk, tao, jupyterlab
 
 Instruction: 
 
