@@ -1,0 +1,20 @@
+.Timer {
+    display: flex;
+}
+
+.timerSection {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+#endTimer {
+  color: red;
+}
+
+.increment {
+  color: blue
+}
+
+.decrement {
+  color: red;
+}
