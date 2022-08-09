@@ -7,3 +7,4 @@ In this project, I decided to code my own clock and countdown timer. The app inc
 
 ## Instructions: <br/>
 1. Download all files.
+2. In command prompt/terminal, type _npm start_
