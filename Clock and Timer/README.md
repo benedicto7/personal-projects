@@ -6,8 +6,9 @@ In this project, I decided to code my own clock and timer countdown. This app in
 ## Requirements
 ...
 
-## Instructions:  
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Instructions
+1. Download all files.
+2. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
