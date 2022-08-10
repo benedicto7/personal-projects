@@ -1,10 +1,10 @@
 # Clock and Timer
 
 ## Description:  
-In this project, I decided to code my own clock and timer
+In this project, I decided to code my own clock and timer countdown. This app includes a clock and a timer countdown, which are the two main features, a date, and increments, decrements, start, stop, and reset buttons to control the timer countdown. This app also includes some basic CSS styling such as colors and font sizes.
 
 ## Requirements:
-... 
+...
 
 ## Instructions:  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
