@@ -1,5 +1,12 @@
-# Getting Started with Create React App
+# Clock and Timer
 
+## Description:  
+In this project, I decided to code my own clock and timer
+
+## Requirements:
+... 
+
+## Instructions:  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
