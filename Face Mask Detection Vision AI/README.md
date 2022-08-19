@@ -12,9 +12,8 @@
 1. 
 
 ## Final Result of Project
-https://user-images.githubusercontent.com/90052277/185654258-7655f5cd-9dea-44ca-a430-bd952c68cbe0.mp4
-https://user-images.githubusercontent.com/90052277/185654268-d26c4716-ed97-4d63-afff-23b219d22135.mp4
-https://user-images.githubusercontent.com/90052277/185654275-0bccd13a-bcbc-4faa-a12c-24a20b0f51d0.mp4
+https://user-images.githubusercontent.com/90052277/185654356-efaab18d-d309-4bf2-8f8d-493c67240676.mp4
+
 
 Data Augmentation, Build Model, and Training <br/>
 http://192.168.1.10:38889/lab
