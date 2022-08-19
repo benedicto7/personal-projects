@@ -1,16 +1,20 @@
 # Mask Detection Vision AI 
 
-Data Augmentation, Build Model, and Training
+Data Augmentation, Build Model, and Training <br/>
 http://192.168.1.10:38889/lab
+<br/>
 
-Deep Stream SDK (Test with video/camera)
+Deep Stream SDK (Test with video/camera) <br/>
 http://192.168.1.10:8688/lab 
+<br/>
 
 deepstream-app -c deepstream_app_source1_peoplenet.txt
 
 Description: 
 
 Used pre-model created by Agung (me/not_me)... 
+Agung Fazrulhaq `agung.fazrulhaq@epsindo.co.id`
+
 
 Requirement: 
 -docker, deepstream sdk, tao, jupyterlab
