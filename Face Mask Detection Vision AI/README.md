@@ -13,7 +13,7 @@ deepstream-app -c deepstream_app_source1_peoplenet.txt
 Description: 
 
 Used pre-model created by Agung (me/not_me)... 
-Agung Fazrulhaq `agung.fazrulhaq@epsindo.co.id`
+Agung Fazrulhaq [agung.fazrulhaq@epsindo.co.id]
 
 
 Requirement: 
