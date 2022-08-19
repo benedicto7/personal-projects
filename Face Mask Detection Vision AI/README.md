@@ -1,6 +1,6 @@
 # Mask Detection Vision AI 
 
-http://192.168.1.10:38889/lab?
+http://192.168.1.10:38889/lab
 
 Description: 
 
