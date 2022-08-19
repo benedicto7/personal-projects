@@ -1,5 +1,7 @@
 # Mask Detection Vision AI 
 
+http://192.168.1.10:38889/lab?
+
 Description: 
 
 Used pre-model created by Agung (me/not_me)... 
