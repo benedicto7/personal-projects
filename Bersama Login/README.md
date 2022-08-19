@@ -1,7 +1,7 @@
 # Clock and Timer
 
 ## Description
-In this project, I decided to code my own clock and timer countdown. This app includes a clock and a timer countdown, which are the two main features, a date, and increments, decrements, start, stop, and reset buttons to control the timer countdown. This app also includes some basic CSS styling such as colors and font sizes.
+In this project, I decided to code my own Bersama Fellowship Login page. _Bersama Fellowship_ is a welcoming community of students who have a relationship with or an interest in Indonesian, Malaysian, and Singaporean culture that strives to nurture the faith of each of its members. Our name, Bersama, which means “together,” represents our goal to establish and maintain a family-like community. We are open for all students who want to serve, educate, and celebrate our shared culture. In this app, there are two main features, which are submitting basic data (student ID, name, birthday, gender, nationality, email, phone number, major, favourite foods, and favourite sports) and searching/outputting the users' data in local storage. In addition, this app includes some buttons to remove the selected user data or to remove all the data. This app also includes some basic CSS styling such as background image, colors, and font sizes.
 
 ## Requirements
 * React.js
