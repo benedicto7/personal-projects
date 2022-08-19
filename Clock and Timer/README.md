@@ -11,7 +11,7 @@ In this project, I decided to code my own clock and timer countdown. This app in
 2. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Example of Project
-![Screenshot (478)](../Desktop/Ben/clocktimer.png)
+![Project Example](https://user-images.githubusercontent.com/90052277/185558786-cd488f29-2a83-4bdb-bcca-522310d4e9e0.png)
 
 ## Available Scripts
 In the project directory, you can run:
