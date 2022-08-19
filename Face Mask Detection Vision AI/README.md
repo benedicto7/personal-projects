@@ -1,5 +1,21 @@
 # Mask Detection Vision AI 
 
+## Description
+
+## Requirements
+* TAO Toolkit
+* TensorRT
+* Deep stream SDK
+* Docker
+
+## Instructions
+1. 
+
+## Final Result of Project
+https://user-images.githubusercontent.com/90052277/185654258-7655f5cd-9dea-44ca-a430-bd952c68cbe0.mp4
+https://user-images.githubusercontent.com/90052277/185654268-d26c4716-ed97-4d63-afff-23b219d22135.mp4
+https://user-images.githubusercontent.com/90052277/185654275-0bccd13a-bcbc-4faa-a12c-24a20b0f51d0.mp4
+
 Data Augmentation, Build Model, and Training <br/>
 http://192.168.1.10:38889/lab
 <br/>
@@ -14,14 +30,6 @@ Description:
 
 Used pre-model created by Agung (me/not_me)... 
 Agung Fazrulhaq agung.fazrulhaq@epsindo.co.id
-
-
-Requirement: 
--docker, deepstream sdk, tao, jupyterlab
-
-Instruction: 
-
-
 
 To use a built and trained model from masker_model_comparison.ipynb, must convert the saved model to a .engine file. In command prompt/terminal:
 pip install tf2onnx
