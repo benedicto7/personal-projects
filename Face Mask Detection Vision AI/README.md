@@ -2,7 +2,7 @@
 
 http://192.168.1.10:38889/lab
 
-http://192.168.1.10:8688/lab
+http://192.168.1.10:8688/lab 
 deepstream-app -c deepstream_app_source1_peoplenet.txt
 
 Description: 
