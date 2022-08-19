@@ -1,8 +1,11 @@
 # Mask Detection Vision AI 
 
+Data Augmentation, Build Model, and Training
 http://192.168.1.10:38889/lab
 
+Deep Stream SDK (Test with video/camera)
 http://192.168.1.10:8688/lab 
+
 deepstream-app -c deepstream_app_source1_peoplenet.txt
 
 Description: 
