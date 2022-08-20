@@ -1,5 +1,9 @@
-# personal-projects
+# Personal Projects
 This repository consists of all the projects that I have made so far. <br/>
+<br/>
+
+Title: Pictionary <br/>
+Coded in: Python <br/>
 <br/>
 Title: Capture The Ball <br/>
 Coded in: C++ with SFML <br/>
