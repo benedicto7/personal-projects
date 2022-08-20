@@ -3,8 +3,9 @@
 ## Description
 Face Mask Detection is a vision AI application that detects whether the person is wearing a mask or not. It detects and displays bounding boxes and labels that indicates whether the person is wearing a mask or not depending on the state of the person (mask/no_mask). In this project, I was personally mentored and helped by Mr. Agung Fazrulhaq (agung.fazrulhaq@epsindo.co.id) to create this face mask detection. This project used a pre-model created by Mr. Agung (me/not_me) which detects if the person is him or another person. Additionally, this project used peoplenet, in the Deep Stream SDK, which detects if the object detect is a person or not.
 
+
 ## Overview
-* _Augmentation_ augments my initial data to add variety and amount to my data set. 
+* `Augmentation` augments my initial data to add variety and amount to my data set. 
 * _Datasets_ are the datasets that will be used to train and test my model. It is separated into three categories: augmentation (all my data), training (initial data), testing (data to be tested).
 * _Deep stream SDK_ is where the face mask detection model is deployed. This means that the model is able to test videos (live camera/pre-record), unlike _Model_ where the model tests static images.
 * _Model_ is where the face mask detection model is built and trained. 
