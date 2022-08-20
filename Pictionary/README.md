@@ -1,9 +1,7 @@
 # Pictionary
 
 ## Description
-In this project, I decided to code an unconventional pictionary that is played from the same one device. This project uses a pre-made code from Calvin University for drawing the pictures on the canvas. In addition, this project includes a windows pop up to save your name into the leaderboard,
-
-canvas, 
+In this project, I decided to code an unconventional pictionary that is played from the same one device. This project uses a pre-made code from Calvin University for drawing the pictures on the canvas. In addition, this project includes a windows pop up to save your name, a leaderboard which keeps track of the top 3 scores and player name, a point system, three different level modes (easy, medium, hard) which determines the difficulty of the word to be drawn, an answer box to guess your answer, a text stating if the user guess the word correctly or incorrectly, a few buttons that generates a new word depending on the level mode, hides and shows the word, starts and resets the timer, clears the canvas, a canvas that draws with different options, and a quit pop up to confirm the user to quit.
 
 ## Instructions
 1. Download all files.
