@@ -3,6 +3,7 @@
 ## Description
 Used pre-model created by Agung (me/not_me)... 
 Agung Fazrulhaq agung.fazrulhaq@epsindo.co.id
+-mentored and helped by
 
 ## Requirements
 * TAO Toolkit
@@ -12,7 +13,7 @@ Agung Fazrulhaq agung.fazrulhaq@epsindo.co.id
 * Docker
 
 ## Instructions
-1. 
+1. Download and run _augmentation_ and _model_ on JupyterLab
 
 ## Final Result of Project
 https://user-images.githubusercontent.com/90052277/185654356-efaab18d-d309-4bf2-8f8d-493c67240676.mp4
@@ -21,8 +22,7 @@ https://user-images.githubusercontent.com/90052277/185654428-9a0d090d-9308-4489-
 
 https://user-images.githubusercontent.com/90052277/185654451-026e60ec-dfa2-41db-b9c3-a08f50df2500.mp4
 
-
-
+## Local Host to JupyterLab
 Data Augmentation, Build Model, and Training <br/>
 http://192.168.1.10:38889/lab
 <br/>
