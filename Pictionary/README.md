@@ -1,9 +1,9 @@
 # Pictionary
 
 ## Description
-In this project, I decided to code an unconventional pictionary that is played from the same one device. This project inludes
+In this project, I decided to code an unconventional pictionary that is played from the same one device. This project uses a pre-made code from Calvin University for drawing the pictures on the canvas. In addition, this project includes a windows pop up to save your name into the leaderboard,
 
-use pre-made free draw code
+canvas, 
 
 ## Instructions
 1. Download all files.
@@ -19,3 +19,7 @@ use pre-made free draw code
 ![Pencil](https://user-images.githubusercontent.com/90052277/185761342-f84515b9-f8de-4aff-98d7-95e3562287c0.png)
 
 ![Leaderboard](https://user-images.githubusercontent.com/90052277/185761343-a096cc18-3e3f-41d7-94f1-cb9f075b0c72.png)
+
+![Level Mode](https://user-images.githubusercontent.com/90052277/185762391-22307f2d-a380-47ed-9cd5-6d31e17bd2a4.png)
+
+![Quit](https://user-images.githubusercontent.com/90052277/185762386-5de0240a-3d99-4bd5-88e2-05dadbf45e31.png)
