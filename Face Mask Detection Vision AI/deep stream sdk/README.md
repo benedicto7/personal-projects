@@ -1,8 +1,8 @@
 # Deep Stream SDK
 
-to launch deep stream sdk...
-
-deepstream-app -c deepstream_app_source1_peoplenet.txt
-
 ## Prerequisite
-mask classifier -> onnx and engine
+* In order to launch/deploy the model into deep stream SDK, we must have both the `.onnx` and `.engine` file models.
+
+## Instructions
+In the command prompt/terminal type:
+1. deepstream-app -c deepstream_app_source1_peoplenet.txt
