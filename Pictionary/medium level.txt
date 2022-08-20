@@ -1,0 +1,15 @@
+Bag
+Phone
+Telephone
+Camera
+Cake
+Bookshelf
+Watch
+Student
+Teacher
+Game
+Calvin University
+Toilet
+Movie Theater
+Angel
+Raining
