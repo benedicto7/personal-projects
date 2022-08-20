@@ -19,4 +19,4 @@ This app includes a clock and a timer countdown, which are the two main features
 
 https://user-images.githubusercontent.com/90052277/185759077-4a9f213f-98c9-4a13-8f2f-a46dbed23aff.mp4
 
-
+x64
