@@ -1,9 +1,0 @@
-ben,1,1
-dius,2,2
-di,3,3
-kris,4,4
-b,3,3
-bbb,6,5
-ben,1,0
-None,2,2
-None,1,1
