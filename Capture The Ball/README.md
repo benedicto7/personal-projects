@@ -11,3 +11,7 @@ In this project, I decided to code my own clock and timer countdown. This app in
 
 ## Example of Project
 ![Project Example](https://user-images.githubusercontent.com/90052277/185758930-d170641e-22a7-44f7-9174-b1e91fe4ba6a.png)
+
+https://user-images.githubusercontent.com/90052277/185759077-4a9f213f-98c9-4a13-8f2f-a46dbed23aff.mp4
+
+
