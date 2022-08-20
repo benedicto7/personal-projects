@@ -1,0 +1,15 @@
+Book
+Clock
+Laptop
+Pencil
+Water Bottle
+Door
+Table
+Chair
+Dice
+Raindrop
+Ice Cream
+Stairs
+Shirts
+Burger
+Pants
