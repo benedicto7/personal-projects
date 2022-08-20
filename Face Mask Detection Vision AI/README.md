@@ -6,9 +6,9 @@ Face Mask Detection is a vision AI application that detects whether the person i
 
 ## Overview
 * `Augmentation` augments my initial data to add variety and amount to my data set. 
-* _Datasets_ are the datasets that will be used to train and test my model. It is separated into three categories: augmentation (all my data), training (initial data), testing (data to be tested).
-* _Deep stream SDK_ is where the face mask detection model is deployed. This means that the model is able to test videos (live camera/pre-record), unlike _Model_ where the model tests static images.
-* _Model_ is where the face mask detection model is built and trained. 
+* `Datasets` are the datasets that will be used to train and test my model. It is separated into three categories: augmentation (all my data), training (initial data), testing (data to be tested).
+* `Deep stream SDK` is where the face mask detection model is deployed. This means that the model is able to test videos (live camera/pre-record), unlike `Model` where the model tests static images.
+* `Model` is where the face mask detection model is built and trained. 
 
 ## Requirements
 * TAO Toolkit
