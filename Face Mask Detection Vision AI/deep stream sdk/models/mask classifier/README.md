@@ -1,7 +1,7 @@
 # Mask Classifier
 
 ## Instructions
-Running masker_model_comparison.ipynb creates an `.onnx` file model as well as additional `mask classifier` file models, which will be used for deep stream SDK. However, an `.engine` file model is also required to run deep stream SDK. Therefore, to create the `.engine` file model, we must convert the saved `.onnx` file model into an `.engine` file model. In the command prompt/terminal:
+Running masker_model_comparison.ipynb creates an `.onnx` file model as well as additional `mask classifier` file models, which will be used for deep stream SDK. However, an `.engine` file model is also required to run deep stream SDK. Therefore, to create the `.engine` file model, we must convert the saved `.onnx` file model into an `.engine` file model. In the command prompt/terminal type:
 1. pip install tf2onnx
 2. pip install pip==22.2.2
 3. pip install onnxruntime
