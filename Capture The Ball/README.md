@@ -1,15 +1,7 @@
 # Capture the Ball
 
 ## Description
-In this project, I decided to code my very first game. For this project, I took inspiration from the common arcade game called Breakout. However, I decided to 
-
-ball colliding and disappearing
-added a twist in which you can move your player in any direction
-constantly spawn new balls so it is never ending
-move my own player
-
-This project
-This app includes a clock and a timer countdown, which are the two main features, a date, and increments, decrements, start, stop, and reset buttons to control the timer countdown. This app also includes some basic CSS styling such as colors and font sizes.
+This is my very first game project. For this project, I took inspiration from the common arcade game called Breakout, which has the main feature of making the block disappear upon colliding with the ball. In this project, I created my own sprite player which resembles an evil mushroom. The user is able to move the player in any direction and has window collision to restrict the player movement boundary. The goal of the game is to 'capture' the ball by colliding with the balls. However, the game constantly spawns new balls, making an infinite loop or a never ending game. In addition, the game has a point system which keeps track the number of times the user captures the balls.
 
 ## Instructions
 1. 
