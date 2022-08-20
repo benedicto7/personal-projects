@@ -1,8 +1,9 @@
 # Mask Classifier
 
 ## Instructions
+
 In order to create the mask classifier which is the model used in deep stream sdk, open command prompt/terminal and type:
-To use a built and trained model from masker_model_comparison.ipynb, must convert the saved model to a .engine file. In command prompt/terminal:
+To use a built and trained model from masker_model_comparison.ipynb (creates .onnx file), must convert the saved model to a .engine file. In command prompt/terminal:
 
 1. pip install tf2onnx
 2. pip install pip==22.2.2
