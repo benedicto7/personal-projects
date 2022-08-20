@@ -8,6 +8,7 @@ Agung Fazrulhaq agung.fazrulhaq@epsindo.co.id
 * TAO Toolkit
 * TensorRT
 * Deep stream SDK
+* JupyterLab
 * Docker
 
 ## Instructions
