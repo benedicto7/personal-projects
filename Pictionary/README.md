@@ -1,10 +1,13 @@
 # Pictionary
 
 ## Description
-In this project, I decided to code my own clock and timer countdown. This app includes a clock and a timer countdown, which are the two main features, a date, and increments, decrements, start, stop, and reset buttons to control the timer countdown. This app also includes some basic CSS styling such as colors and font sizes.
+In this project, I decided to code an unconventional pictionary that is played from the same one device. This project inludes
+
+use pre-made free draw code
 
 ## Instructions
 1. Download all files.
+2. Run as python files.
 
 ## Example of Project
 ![Start](https://user-images.githubusercontent.com/90052277/185761334-af25b139-15e3-4565-af53-f9ec1fd75142.png)
