@@ -13,6 +13,8 @@ In this project, I decided to code my own clock and timer countdown. This app in
 ## Example of Project
 ![Project Example](https://user-images.githubusercontent.com/90052277/185558786-cd488f29-2a83-4bdb-bcca-522310d4e9e0.png)
 
+https://user-images.githubusercontent.com/90052277/185802729-0b900cf9-c3aa-4d74-9750-e8cc99666496.mp4
+
 ## Available Scripts
 In the project directory, you can run:
 
