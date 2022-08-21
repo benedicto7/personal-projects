@@ -13,7 +13,10 @@ In this project, I decided to code my own Bersama Fellowship Login page. _Bersam
 ## Example of Project
 
 ![Project Example 1](https://user-images.githubusercontent.com/90052277/185561711-11a7562b-883f-42ee-b19c-30fead0103c9.png)
+
 ![Project Example 2](https://user-images.githubusercontent.com/90052277/185561723-b3827c1a-c4e8-4bc2-9074-ec16aa94cd92.png)
+
+https://user-images.githubusercontent.com/90052277/185803184-b577fba5-7939-4a90-8be9-d50917891162.mp4
 
 ## Available Scripts
 In the project directory, you can run:
