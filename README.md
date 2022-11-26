@@ -20,3 +20,9 @@ Coded in: JavaScript and CSS with React.js <br/>
 Title: Funny Reaction Game <br/>
 Coded in: JavaScript and CSS with React.js <br/>
 <br/>
+Title: Knight Market <br/>
+Coded in: React Native <br/>
+<br/>
+Title: Calvin Chat App <br/>
+Coded in: Angular and Ionic <br/>
+<br/>
