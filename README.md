@@ -24,5 +24,5 @@ Title: Knight Market <br/>
 Coded in: React Native <br/>
 <br/>
 Title: Calvin Chat App <br/>
-Coded in: Angular and Ionic <br/>
+Coded in: Angular with TypeScript and JavaScript, and Ionic <br/>
 <br/>
